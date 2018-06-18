@@ -1,6 +1,8 @@
 <?php
 
- echo "Hello my friends MonsterSs Mundo";
+ echo "Hello my friends MonsterSs Mundo Bizarro";
+
+echo "Olá galera";
 
  echo "teste";
 
