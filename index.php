@@ -4,7 +4,7 @@
 
  echo "Olá galera legal";
 
- echo "testeee";
+ echo "teste";
 
 
 ?>
